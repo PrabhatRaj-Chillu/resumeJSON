@@ -16,23 +16,23 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "theprabhatraj1",
+				"url": "https://www.twitter.com/theprabhatraj1"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "theprabhatraj",
+				"url": "https://www.github.com/theprabhatraj/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "theprabhatraj",
+				"url": "https://www.linkedin.com/in/theprabhatraj/"
 			},
 			{
 				"network": "Instagram",
 				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"url": "https://instagram.com/theprabhatraj"
 			}
 		]
 	},
@@ -77,7 +77,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Photoshop", "Premier pro", "After effects", "Cineam 4d"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Photoshop", "Premier pro", "After effects", "Cineam 4d"]
 	}],
 	"interests": [{
 		"name": "Playing",
