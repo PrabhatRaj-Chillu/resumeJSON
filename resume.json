@@ -5,12 +5,12 @@
 		"picture": "---Enter Image URL----",
 		"email": "theversion9@gmail.com",
 		"phone": "9142226465",
-		"website": " ",
+		"website": "---",
 		"summary": "Hi ,my name is Prabhat Raj and I love learning new things.",
 		"location": {
 			"address": "Vill+Post-Khilwat, PS-Bidupur, Dist-Vaishali",
 			"postalCode": "844503",
-			"city": " ",
+			"city": "---",
 			"countryCode": "India",
 			"region": "Bihar"
 		},
