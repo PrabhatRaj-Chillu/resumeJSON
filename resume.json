@@ -2,13 +2,14 @@
 	"basics": {
 		"name": "Prabhat Raj",
 		"label": "Student",
-		"picture": "https://github.com/theprabhatraj/MyPic/blob/main/dp%203d%20cartoon.jpg",
+		"picture": "https://avatars.githubusercontent.com/u/79698301?v=4",
 		"email": "theversion9@gmail.com",
 		"phone": "9142226465",
 		"summary": "Hi ,my name is Prabhat Raj and I love learning new things.",
 		"location": {
 			"address": "Vill+Post-Khilwat, PS-Bidupur, Dist-Vaishali",
 			"postalCode": "844503",
+			"city": "Bidupur",
 			"countryCode": "India",
 			"region": "Bihar"
 		},
@@ -44,8 +45,10 @@
 		]
 	}],
 	"skills": [{
-		"level": "Master",
+		"level": "Noob",
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Photoshop", "Premier pro", "After effects", "Cineam 4d"]
+		"level": "Master",
+		"keywords": ["Photoshop", "Premier pro", "After effects", "Cineam 4d"]
 	}],
 	"languages": [{
 		"language": ["English", "Hindi", "Bhojpuri"],
