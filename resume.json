@@ -47,6 +47,8 @@
 	"skills": [{
 		"level": "Noob",
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Photoshop", "Premier pro", "After effects", "Cineam 4d"]
+		 },
+        {
 		"level": "Master",
 		"keywords": ["Photoshop", "Premier pro", "After effects", "Cineam 4d"]
 	}],
